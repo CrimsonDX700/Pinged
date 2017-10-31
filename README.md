@@ -1,2 +1,4 @@
-# Pinged
-I lost my laptop so I decided ti make a program to locate it next time. 
+# Ping
+I lost my laptop so I decided to make a program to locate it next time. 
+
+I will use Java as its language.
